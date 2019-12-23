@@ -1,0 +1,4 @@
+R5T.Kallithea.Abstractions.Construction - A construction console-app for the library R5T.Kallithea.Abstractions.
+
+Goals
+
